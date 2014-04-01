@@ -10,4 +10,7 @@
 
 @interface SAViewController : UIViewController
 
+//-(void)problem1:(int)numberInput;
+//-(void)problem2:(int)beg finish:(int)end;
+//-(int)problem3:(int)factorial;
 @end
